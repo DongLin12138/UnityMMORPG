@@ -1,0 +1,149 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "protobuf-net/3.1.17": {
+        "type": "package",
+        "dependencies": {
+          "protobuf-net.Core": "3.1.17"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/protobuf-net.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/protobuf-net.dll": {}
+        }
+      },
+      "protobuf-net.Core/3.1.17": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/protobuf-net.Core.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/protobuf-net.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "protobuf-net/3.1.17": {
+      "sha512": "lN6JWutKqn1Aq/hI1BXcR7VbgHgcerUTMav2rTenflE28GWC2y1JoF9XPkoQdCkf24olStY00r68PHJhUpWFaw==",
+      "type": "package",
+      "path": "protobuf-net/3.1.17",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net461/protobuf-net.dll",
+        "lib/net461/protobuf-net.xml",
+        "lib/net5.0/protobuf-net.dll",
+        "lib/net5.0/protobuf-net.xml",
+        "lib/netcoreapp3.1/protobuf-net.dll",
+        "lib/netcoreapp3.1/protobuf-net.xml",
+        "lib/netstandard2.0/protobuf-net.dll",
+        "lib/netstandard2.0/protobuf-net.xml",
+        "lib/netstandard2.1/protobuf-net.dll",
+        "lib/netstandard2.1/protobuf-net.xml",
+        "protobuf-net.3.1.17.nupkg.sha512",
+        "protobuf-net.nuspec",
+        "protobuf-net.png"
+      ]
+    },
+    "protobuf-net.Core/3.1.17": {
+      "sha512": "6PK/ZswVXHdUfMFEv9bI+jkNipuy9ifKRKRBAZlqFrbGXOwvREdMA2H53GTqTc6728PMA0VGvsbnjPAQ0Cx59A==",
+      "type": "package",
+      "path": "protobuf-net.core/3.1.17",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net461/protobuf-net.Core.dll",
+        "lib/net461/protobuf-net.Core.xml",
+        "lib/net5.0/protobuf-net.Core.dll",
+        "lib/net5.0/protobuf-net.Core.xml",
+        "lib/netcoreapp3.1/protobuf-net.Core.dll",
+        "lib/netcoreapp3.1/protobuf-net.Core.xml",
+        "lib/netstandard2.0/protobuf-net.Core.dll",
+        "lib/netstandard2.0/protobuf-net.Core.xml",
+        "lib/netstandard2.1/protobuf-net.Core.dll",
+        "lib/netstandard2.1/protobuf-net.Core.xml",
+        "protobuf-net.core.3.1.17.nupkg.sha512",
+        "protobuf-net.core.nuspec",
+        "protobuf-net.png"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "protobuf-net >= 3.1.17"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\董平\\.nuget\\packages\\": {},
+    "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Unity MMORPG\\Protocol\\Protocol.csproj",
+      "projectName": "Protocol",
+      "projectPath": "D:\\Unity MMORPG\\Protocol\\Protocol.csproj",
+      "packagesPath": "C:\\Users\\董平\\.nuget\\packages\\",
+      "outputPath": "D:\\Unity MMORPG\\Protocol\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\董平\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "protobuf-net": {
+            "target": "Package",
+            "version": "[3.1.17, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

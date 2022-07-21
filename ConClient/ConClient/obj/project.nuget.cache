@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "5OPCCOTJWuH/NVgAiOh1oL3mAmEvUW5m5R6Mo9orPB2oNAxIzvD8l8Fxpo9CQWGLXqTVVU6SX5tEfLB31Io0/A==",
+  "success": true,
+  "projectFilePath": "D:\\Unity MMORPG\\ConClient\\ConClient\\ConClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\董平\\.nuget\\packages\\litjson\\0.18.0\\litjson.0.18.0.nupkg.sha512",
+    "C:\\Users\\董平\\.nuget\\packages\\protobuf-net\\3.1.17\\protobuf-net.3.1.17.nupkg.sha512",
+    "C:\\Users\\董平\\.nuget\\packages\\protobuf-net.core\\3.1.17\\protobuf-net.core.3.1.17.nupkg.sha512",
+    "C:\\Users\\董平\\.nuget\\packages\\websocketsharp-netstandard\\1.0.1\\websocketsharp-netstandard.1.0.1.nupkg.sha512",
+    "C:\\Users\\董平\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

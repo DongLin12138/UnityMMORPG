@@ -1,0 +1,10 @@
+D:\Unity MMORPG\Protocol\bin\Debug\netcoreapp3.1\Protocol.deps.json
+D:\Unity MMORPG\Protocol\bin\Debug\netcoreapp3.1\Protocol.dll
+D:\Unity MMORPG\Protocol\bin\Debug\netcoreapp3.1\Protocol.pdb
+D:\Unity MMORPG\Protocol\obj\Debug\netcoreapp3.1\Protocol.csproj.AssemblyReference.cache
+D:\Unity MMORPG\Protocol\obj\Debug\netcoreapp3.1\Protocol.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity MMORPG\Protocol\obj\Debug\netcoreapp3.1\Protocol.AssemblyInfoInputs.cache
+D:\Unity MMORPG\Protocol\obj\Debug\netcoreapp3.1\Protocol.AssemblyInfo.cs
+D:\Unity MMORPG\Protocol\obj\Debug\netcoreapp3.1\Protocol.csproj.CoreCompileInputs.cache
+D:\Unity MMORPG\Protocol\obj\Debug\netcoreapp3.1\Protocol.dll
+D:\Unity MMORPG\Protocol\obj\Debug\netcoreapp3.1\Protocol.pdb

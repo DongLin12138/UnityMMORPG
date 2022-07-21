@@ -1,0 +1,13 @@
+D:\Unity MMORPG\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+D:\Unity MMORPG\Common\bin\Debug\netcoreapp3.1\Common.dll
+D:\Unity MMORPG\Common\bin\Debug\netcoreapp3.1\Common.pdb
+D:\Unity MMORPG\Common\bin\Debug\netcoreapp3.1\Protocol.dll
+D:\Unity MMORPG\Common\bin\Debug\netcoreapp3.1\Protocol.pdb
+D:\Unity MMORPG\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+D:\Unity MMORPG\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity MMORPG\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+D:\Unity MMORPG\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+D:\Unity MMORPG\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+D:\Unity MMORPG\Common\obj\Debug\netcoreapp3.1\Common.csproj.CopyComplete
+D:\Unity MMORPG\Common\obj\Debug\netcoreapp3.1\Common.dll
+D:\Unity MMORPG\Common\obj\Debug\netcoreapp3.1\Common.pdb

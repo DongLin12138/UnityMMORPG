@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Lins</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="LitJson" Version="0.18.0" />
+    <PackageReference Include="protobuf-net" Version="3.1.17" />
+    <PackageReference Include="WebSocketSharp-netstandard" Version="1.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Common">
+      <HintPath>..\..\Common\bin\Debug\netcoreapp3.1\Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Protocol">
+      <HintPath>..\..\Common\bin\Debug\netcoreapp3.1\Protocol.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XFfBjvypX+UZPJjGG/KxoXUXwe1m5LiVNymb8R4lBVetJUdB8ul3mkusCKKjE1LRCoNe5a/MUaHGBL//cZ9+nA==",
+  "dgSpecHash": "cB4MOahnLlPnmwkHFEBzb935qmAzUcPo+dBtiWhFLwgv/yfHV/FIZv4J6SJwz+PXdK30OEj9a/de9ITpM7gO9w==",
   "success": true,
-  "projectFilePath": "D:\\Unity MMORPG\\MmoServer\\MmoServer\\MmoServer.csproj",
+  "projectFilePath": "D:\\Unity MMORPG\\UnityMMORPG\\MmoServer\\MmoServer\\MmoServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\董平\\.nuget\\packages\\litjson\\0.18.0\\litjson.0.18.0.nupkg.sha512",
     "C:\\Users\\董平\\.nuget\\packages\\protobuf-net\\3.1.17\\protobuf-net.3.1.17.nupkg.sha512",

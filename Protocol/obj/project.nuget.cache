@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7Emu+HVpvZtQAY50UnnHLRmyoybOfZZYS13Qa81Vax70+9usqmqYBfLrXpEXIz7H/G+7mv9l/qBMT/hM2u1dtA==",
+  "dgSpecHash": "pbYSJNMrTQM4LSUoMIsz4LBJaNbIwXTkmsS7Jx/3ojrFeaTHulPMkVbFMP0XSD3oHWXGHkwYzN64uBXStzkudQ==",
   "success": true,
-  "projectFilePath": "D:\\Unity MMORPG\\Protocol\\Protocol.csproj",
+  "projectFilePath": "D:\\Unity MMORPG\\UnityMMORPG\\Protocol\\Protocol.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\董平\\.nuget\\packages\\protobuf-net\\3.1.17\\protobuf-net.3.1.17.nupkg.sha512",
     "C:\\Users\\董平\\.nuget\\packages\\protobuf-net.core\\3.1.17\\protobuf-net.core.3.1.17.nupkg.sha512"

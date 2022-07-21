@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Unity MMORPG\\Common\\Common.csproj": {}
+    "D:\\Unity MMORPG\\UnityMMORPG\\Common\\Common.csproj": {}
   },
   "projects": {
-    "D:\\Unity MMORPG\\Common\\Common.csproj": {
+    "D:\\Unity MMORPG\\UnityMMORPG\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Unity MMORPG\\Common\\Common.csproj",
+        "projectUniqueName": "D:\\Unity MMORPG\\UnityMMORPG\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "D:\\Unity MMORPG\\Common\\Common.csproj",
+        "projectPath": "D:\\Unity MMORPG\\UnityMMORPG\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\董平\\.nuget\\packages\\",
-        "outputPath": "D:\\Unity MMORPG\\Common\\obj\\",
+        "outputPath": "D:\\Unity MMORPG\\UnityMMORPG\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -33,8 +33,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Unity MMORPG\\Protocol\\Protocol.csproj": {
-                "projectPath": "D:\\Unity MMORPG\\Protocol\\Protocol.csproj"
+              "D:\\Unity MMORPG\\UnityMMORPG\\Protocol\\Protocol.csproj": {
+                "projectPath": "D:\\Unity MMORPG\\UnityMMORPG\\Protocol\\Protocol.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "D:\\Unity MMORPG\\Protocol\\Protocol.csproj": {
+    "D:\\Unity MMORPG\\UnityMMORPG\\Protocol\\Protocol.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Unity MMORPG\\Protocol\\Protocol.csproj",
+        "projectUniqueName": "D:\\Unity MMORPG\\UnityMMORPG\\Protocol\\Protocol.csproj",
         "projectName": "Protocol",
-        "projectPath": "D:\\Unity MMORPG\\Protocol\\Protocol.csproj",
+        "projectPath": "D:\\Unity MMORPG\\UnityMMORPG\\Protocol\\Protocol.csproj",
         "packagesPath": "C:\\Users\\董平\\.nuget\\packages\\",
-        "outputPath": "D:\\Unity MMORPG\\Protocol\\obj\\",
+        "outputPath": "D:\\Unity MMORPG\\UnityMMORPG\\Protocol\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

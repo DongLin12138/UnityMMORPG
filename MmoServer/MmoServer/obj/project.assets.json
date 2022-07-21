@@ -181,11 +181,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Unity MMORPG\\MmoServer\\MmoServer\\MmoServer.csproj",
+      "projectUniqueName": "D:\\Unity MMORPG\\UnityMMORPG\\MmoServer\\MmoServer\\MmoServer.csproj",
       "projectName": "MmoServer",
-      "projectPath": "D:\\Unity MMORPG\\MmoServer\\MmoServer\\MmoServer.csproj",
+      "projectPath": "D:\\Unity MMORPG\\UnityMMORPG\\MmoServer\\MmoServer\\MmoServer.csproj",
       "packagesPath": "C:\\Users\\董平\\.nuget\\packages\\",
-      "outputPath": "D:\\Unity MMORPG\\MmoServer\\MmoServer\\obj\\",
+      "outputPath": "D:\\Unity MMORPG\\UnityMMORPG\\MmoServer\\MmoServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -207,8 +207,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Unity MMORPG\\Common\\Common.csproj": {
-              "projectPath": "D:\\Unity MMORPG\\Common\\Common.csproj"
+            "D:\\Unity MMORPG\\UnityMMORPG\\Common\\Common.csproj": {
+              "projectPath": "D:\\Unity MMORPG\\UnityMMORPG\\Common\\Common.csproj"
             }
           }
         }
